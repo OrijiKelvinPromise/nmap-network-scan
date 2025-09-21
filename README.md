@@ -58,22 +58,6 @@ The goal is to identify open ports, analyze the services running, and provide se
 
 ---
 
-## 📂 Project Structure
-```
-nmap-network-scan/
-├── README.md   # Project documentation
-├── results/    # Store raw Nmap scan outputs here
-```
-
----
-
-## 🚀 Future Work
-- Automate scans with a Python script using `python-nmap`.  
-- Compare results across different networks (home Wi-Fi, VM subnet).  
-- Correlate Nmap results with Wireshark packet captures.  
-
----
-
 ## 📖 References
 - [Nmap Official Docs](https://nmap.org/book/man.html)  
 - [Common Ports Cheat Sheet](https://www.iana.org/assignments/service-names-port-numbers/service-names-port-numbers.xhtml)  
